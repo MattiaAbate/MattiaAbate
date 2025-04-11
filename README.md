@@ -16,7 +16,7 @@ I'm developing a Discord bot named Pingu, a website for simracers, PRO Simracing
 - 🐍 Python
 - 💻 Lua
 - ☕ Java
-- ⌨ C
+- ⌨ C, C++
 
 ---
 
