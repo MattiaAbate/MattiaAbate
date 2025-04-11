@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mattia Abate
 
-I'm developing a Discord bot named Pingu and a website for simracers, PRO Simracing Setups, where everyone can buy and sell setups and liveries for Assetto Corsa and Assetto Corsa Competizione.
+I'm developing a Discord bot named Pingu, a website for simracers, PRO Simracing Setups, where everyone can buy and sell setups and liveries for Assetto Corsa and Assetto Corsa Competizione and so many other project that come to mind at random.
 
 # 💫About Me :
 🇮🇹 ITALIAN
