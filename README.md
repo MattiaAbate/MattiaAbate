@@ -12,7 +12,8 @@ I'm developing a Discord bot named Pingu, a website for simracers, PRO Simracing
 - ⚔️ Clash Of Clans
 
 🧑‍💻 DEVELOPER (for fun 🍦)
-- 🌐 HTML, CSS, JavaScript
+- 🌐 Web development
+- ⚙️ Node.js & TypeScript
 - 🐍 Python
 - 💻 Lua
 - ☕ Java
